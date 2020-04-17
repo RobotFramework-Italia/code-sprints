@@ -17,6 +17,7 @@ Repository to organize and share data during the Open Sprints
 - **Feature:** [Allow passing auth param to create client cert session](https://github.com/MarketSquare/robotframework-requests/issues/245)
 - **Tech:** [Deprecate To Json keyword in favor of response.json attribute](https://github.com/MarketSquare/robotframework-requests/issues/219)
 - **Tech**: Moving all tests to local http server (Flask)
+- **Challenge**: Start local http server (Flask) only once per test run instead of start/stop for each suite
 
 ### Reply / close issues as you will :)
 https://github.com/MarketSquare/robotframework-requests/issues
