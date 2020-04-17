@@ -2,6 +2,9 @@
 Repository to organize and share data during the Open Sprints
 
 ## 17th April 2020 - Contribute to RequestsLibrary
+
+Some of the following activities can be seen also in the [GitHub Project Board (https://github.com/MarketSquare/robotframework-requests/projects/1)
+
 ### New upcoming 0.7 version
 - [ ] **Review PR:** [Add a post method that allows sending binary data ](https://github.com/MarketSquare/robotframework-requests/pull/224)
 - [ ] **Feature:** [New On Session keywords](https://github.com/MarketSquare/robotframework-requests/issues/276)
